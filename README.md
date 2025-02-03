@@ -66,3 +66,28 @@ iii. Now Select the sales Subnet
 
 ![image alt](7.PNG)
 
+## Step - 3 
+
+Connect both the VMs (i'm doing using RDP file)
+
+Cheking ip address of 1st vm
+
+![image alt](8.PNG)
+
+Checking ip address of 2nd Vm
+
+![image alt](9.PNG)
+
+Now close the Firewall of both the VMs to check if they both communicate with each others or not
+
+![image alt](10.PNG)
+
+![image alt](11.PNG)
+
+![image alt](12.PNG)
+
+## Step - 4 
+
+Now copy the IP address of any VM and ping from another VM to check if they communicate
+
+![image alt](13.PNG)
